@@ -22,13 +22,20 @@
 
 Установите и запустите memcached.
 
+![image](https://github.com/GorkOrMork/-Redis/assets/109193124/91d2e2cb-1855-4c6a-aa57-343242b602cc)
+
+![image](https://github.com/GorkOrMork/-Redis/assets/109193124/dd923ae4-25bf-4cb1-bd4c-489b57ef8c3b)
+
 
 ### Задание 3
 
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
 
+![image](https://github.com/GorkOrMork/-Redis/assets/109193124/e1eb4d19-afc9-46ee-9c35-803ba17e3857)
 
 
 ### Задание 4
 
 Запишите в Redis несколько ключей с любыми именами и значениями
+
+![image](https://github.com/GorkOrMork/-Redis/assets/109193124/a1b7a07b-0cd6-495e-92f9-33f3c93787b3)
